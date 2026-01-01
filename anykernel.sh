@@ -4,16 +4,16 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=vampire :> | ncatt @ telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
+device.name1=SM-A325F
+device.name2=SM-A325M
+device.name3=SM-A325N
+device.name4=a32
 device.name5=
 supported.versions=
 supported.patchlevels=
