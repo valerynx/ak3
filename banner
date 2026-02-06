@@ -1,13 +1,8 @@
- /_/\  
-( o.o ) | vampire
- > ^ <                        
+perf        
 ======
- > KernelSU variant: SukiSU Ultra
- > KernelSU Manager supported: SukiSU Ultra
+ > KernelSU variant: ?
+ > KernelSU Manager supported: ?
  > SELinux: Enforcing
- > kernel source: valerynx/vampire_samsung_a32 on GitHub
+ > kernel source: ?
  > thanks:
- - fukiame: improve kernel source
- - Luminous418: EroFS kernel source
- - msan: commit manual hook
- - Renia: help me for hook min scope
+ - mert: perf kernel source for a32
