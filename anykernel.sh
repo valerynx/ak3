@@ -12,9 +12,9 @@ device.name2=SM-A325F
 device.name3=SM-A325M
 device.name4=SM-A325N
 device.name5=
-supported.versions=4
-supported.patchlevels=14
-supported.vendorpatchlevels=186
+supported.versions=
+supported.patchlevels=
+supported.vendorpatchlevels=
 '; } # end properties
 
 
